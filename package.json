@@ -1,0 +1,24 @@
+{
+  "name": "calculadora-backend",
+  "version": "0.0.1",
+  "description": "Backend de calc-tenea el cual expone una API REST para realizar operaciones aritmeticas basicas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "Backend",
+    "express",
+    "nodejs"
+  ],
+  "author": "David Claros <davidalejo32@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
